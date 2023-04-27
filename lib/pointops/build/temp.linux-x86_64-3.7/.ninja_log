@@ -1,0 +1,14 @@
+# ninja log v5
+2	5694	1658138199381192410	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/subtraction/subtraction_cuda.o	6e062af12da5c151
+0	5887	1658138199573180551	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/aggregation/aggregation_cuda.o	e9eae724270042c0
+1	6659	1658138200345132888	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/interpolation/interpolation_cuda.o	cdf106061135723a
+1	6767	1658138200453126224	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/knnquery/knnquery_cuda.o	445cfa2005cb871
+1	7105	1658138200793105239	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/grouping/grouping_cuda.o	816b8335fd68112a
+2	7105	1658138200793105239	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/sampling/sampling_cuda.o	a87a6618ed9917c9
+2	18781	1658138212460387961	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/pointops_api.o	5437921a64f9509c
+1	20102	1658138213788306662	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/aggregation/aggregation_cuda_kernel.o	2a10a6fce0b2017f
+1	20624	1658138214308274849	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/grouping/grouping_cuda_kernel.o	e3d348f8ff5f08c7
+2	20638	1658138214324273871	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/subtraction/subtraction_cuda_kernel.o	ae1e4c58060316f2
+1	20655	1658138214340272892	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/knnquery/knnquery_cuda_kernel.o	18daef237569fbea
+2	20699	1658138214384270202	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/sampling/sampling_cuda_kernel.o	2df4e8e81c77659e
+1	20735	1658138214420268000	/home/lzh/projects/dgcnn_test/lib/pointops/build/temp.linux-x86_64-3.7/src/interpolation/interpolation_cuda_kernel.o	6a205e58719dba03
